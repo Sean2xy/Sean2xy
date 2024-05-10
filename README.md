@@ -21,7 +21,7 @@ me.say_hi()
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🚀 SDE
-  - 🌱 I’m currently based in Dublin for Master in Computer Science.
+  - 🌱 I’m currently based in Dublin for Master in Computer Science at Trinity College Dublin.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him / His
  
