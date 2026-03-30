@@ -10,7 +10,7 @@ class SoftwareEngineer:
         self.name = "Sean Zhu"
         self.role = "Software Engineer"
         self.language_spoken = ["en_US", "zh_CN"]
-        self.interests = ["Badminton🏸", "Football⚽", "IPA🍺", "LOL Teamfight Tactics"]
+        self.interests = ["Badminton🏸", "IPA🍺", "LOL Teamfight Tactics"]
 
     def say_hi(self):
         print("Thanks for visiting my personal Github Repo, hope you find some of my featured work interesting.")
@@ -21,7 +21,7 @@ me.say_hi()
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🚀 SDE
-  - 🌱 I’m currently based in Dublin for Master in Computer Science at Trinity College Dublin.
+  - 🌱 I’m currently based in Ireland Dublin🍀.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him / His
  
